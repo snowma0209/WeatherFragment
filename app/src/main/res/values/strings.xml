@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherFragment</string>
+    <string name="hokkaido">北海道</string>
+    <string name="tokyo">東京</string>
+    <string name="okinawa">沖縄</string>
+    <string name="place">場所を選んでください</string>
+    <string name="here">現在地</string>
+</resources>
